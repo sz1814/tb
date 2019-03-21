@@ -1,0 +1,11 @@
+div{
+    background: red;
+    font-size: 20px;
+}
+body{
+    width: 100px;
+}
+*{
+    margin:0;
+    padding: 0;
+}
